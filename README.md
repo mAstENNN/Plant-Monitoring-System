@@ -31,4 +31,5 @@ Real-time data streaming to a web app interface
 ESP 8266 NodeMCU CP2102 ESP-12E x4
 LCD x3
 
-## This project introduces an approach to plant care by integrating a scalable network of Arduino-based sensors and a central processing unit. This design simplifies the monitoring of multiple plants. Each plant gets its own set of sensors that check things like soil moisture, temperature, humidity, and light. These sensors send information to a main Server powered by ESP8266, which acts like the brain of the system. The main board looks at the data and send it to the web app that will display the data in real-time for the user to see
+## **This project introduces an approach to plant care by integrating a scalable network of Arduino-based sensors and a central processing unit. This design simplifies the monitoring of multiple plants. Each plant gets its own set of sensors that check things like soil moisture, temperature, humidity, and light. These sensors send information to a main Server powered by ESP8266, which acts like the brain of the system. The main board looks at the data and send it to the web app that will display the data in real-time for the user to see
+**
